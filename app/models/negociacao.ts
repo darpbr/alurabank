@@ -10,7 +10,7 @@ export class Negociacao {
     return dataRetorno;
   }
 
-  public criaDe(
+  public static criaDe(
     dataString: string,
     quantidadeString: string,
     valorString: string
