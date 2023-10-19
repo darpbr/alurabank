@@ -3,6 +3,7 @@
 Aplicação criada como exercício dos cursos:
 - TypeScript parte 1 - Evoluindo seu JavaScript
 - TypeScript parte 2 - Avançando na linguagem
+- TypeScript parte 3 - Mais técnicas e boas práticas
 
 ### Ambiente de Desenvolvimento
 
