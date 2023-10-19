@@ -16,4 +16,8 @@ export class Negociacoes{
         // return [...this.negociacoes];
         return this.negociacoes;
     }
+
+    public toString(): string {
+        return JSON.stringify(this.negociacoes, null, 2);
+      }
 }
